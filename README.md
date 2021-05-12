@@ -3,7 +3,7 @@ This prototype is showing how to generate sample charts summarizing the events t
 
 
 ## Contacts
-* Rami Alfadel
+* Rami Alfadel (ralfadel@cisco.com)
 
 ## Solution Components
 
